@@ -153,7 +153,7 @@ Blinkit-Ecommerce-Sales-Analytics/
 │   └── Blinkit_Sales_Analysis.sql
 │
 ├── PowerBI/
-│   └── Blinkit_Dashboard.pbix
+│   └── Blinkit Dashboard.pbix
 │
 ├── Screenshots/
 │   ├── Executive_Overview.png
