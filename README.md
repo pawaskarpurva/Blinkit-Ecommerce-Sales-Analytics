@@ -83,6 +83,20 @@ The interactive dashboard contains four analytical pages:
 - Customer ratings and feedback sentiment
 - Inventory and damaged stock analysis
 
+## Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview](Screenshots/Executive_Overview.png)
+
+### 2. Sales & Product Analysis
+![Sales & Product Analysis](Screenshots/Sales_Product_Analysis.png)
+
+### 3. Customer Analysis
+![Customer Analysis](Screenshots/Customer_Analysis.png)
+
+### 4. Delivery, Feedback & Inventory
+![Delivery, Feedback & Inventory](Screenshots/Delivery_Feedback_Inventory.png)
+
 ## Key Skills Demonstrated
 
 - Data cleaning and transformation
