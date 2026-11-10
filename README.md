@@ -39,7 +39,16 @@ The project uses a Blinkit-related e-commerce dataset containing seven tables:
 6. `blinkit_customer_feedback`
 7. `blinkit_inventory`
 
-*Dataset source and attribution: [Add the original dataset source link here before publishing.]*
+## Dataset Source & Attribution
+
+- **Dataset Name:** Blinkit Sales Dataset
+- **Original Platform:** Kaggle (as described by the mirror source; original listing not yet verified)
+- **Dataset Mirror:** [Hugging Face – Blinkit Sales Dataset](https://huggingface.co/datasets/jason1966/akxiit_blinkit-sales-dataset)
+- **Mirror Uploader:** `jason1966`
+- **Original Creator:** Not yet verified
+- **Licence:** Original dataset licence requires verification.
+
+The dataset was used for educational and portfolio purposes. The original creator's attribution and applicable usage permissions should be verified before redistribution.
 
 ## SQL Analysis
 
