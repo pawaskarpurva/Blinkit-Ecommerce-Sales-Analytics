@@ -97,6 +97,32 @@ The interactive dashboard contains four analytical pages:
 ### 4. Delivery, Feedback & Inventory
 ![Delivery, Feedback & Inventory](Screenshots/Delivery_Feedback_Inventory.png)
 
+## Key Business Findings
+
+Based on the Executive Overview dashboard for the selected reporting period (16 March 2023 – 4 November 2024):
+
+1. **Sales Performance:** The business recorded total revenue of ₹23,63,300 across 1,061 orders.
+2. **Average Order Value:** The average order value was approximately ₹2,227.
+3. **Customer Base:** The dashboard recorded 885 unique customers.
+4. **Delivery Performance:** 69.84% of orders were delivered on time, while 30.16% experienced delivery delays.
+5. **Delivery Delays:** 20.92% of orders were slightly delayed and 9.24% were significantly delayed.
+6. **Product Categories:** Dairy & Breakfast and Pharmacy were the highest-revenue categories among the five categories displayed in the Executive Overview.
+
+## Business Recommendations
+
+- Investigate the causes of delivery delays and identify opportunities to improve on-time delivery performance.
+- Monitor high-revenue product categories to support better product availability and inventory planning.
+- Analyse customer purchasing frequency and spending segments to identify opportunities for repeat purchases.
+- Track monthly revenue and order trends to identify seasonal patterns and changes in business performance.
+- Monitor customer feedback and ratings to identify areas requiring service improvements.
+
+## Data Quality & Limitations
+
+- Findings are based on the supplied project dataset and its available reporting period.
+- Dashboard KPIs depend on the selected date and area filters.
+- Inventory damage metrics should be interpreted according to the source dataset's definitions and should not automatically be treated as a confirmed stock-loss rate.
+- Delivery metrics depend on the definitions and completeness of the supplied delivery records.
+- The dataset represents the available project data and should not be interpreted as a complete representation of Blinkit's actual business performance.
 ## Key Skills Demonstrated
 
 - Data cleaning and transformation
